@@ -1,0 +1,155 @@
+body{
+    font-family:  'Fira Sans', sans-serif;
+}
+#title{
+    background-color: #BAABDA;
+    color: #fff;
+}
+.phone{
+    max-width: 60%;
+    transform: rotateZ(10deg);
+}
+.row{
+    font-family: 'Ubuntu-Bold', sans-serif;
+    font-size: 4.5rem;
+}
+#section-title{
+    padding: 4% 15%;
+}
+.main{
+    font-size: 80%;
+}
+h2{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 3.5rem;
+}
+h3{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #000;
+}
+p{
+    color:#252e35 ;
+    font-size: 0.9rem;
+}
+
+
+/* Navigation bar */
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+}
+
+/* Features */
+#features{
+    font-size: 0.7rem;
+    color:#BAABDA ;
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+/* Testimonials */
+#testimonials{
+    background-color: #BAABDA;
+    color: #fff;
+    text-align: center;
+}
+.one{
+        border-radius: 50%;
+        max-width: 14%;
+        padding: 1%;
+}
+.testimonial-image{
+    border-radius: 50%;
+    max-width: 14%;
+    padding: 1%;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonial-text{
+    font-size: 2.5rem;
+}
+/* Press */
+#press{
+    background-color: #BAABDA;
+    text-align: center;
+    padding: 1% 2%;
+    padding-bottom: 6%;
+    padding-top: 3%;
+}
+.news{
+    width: 14%;
+    margin: 20px;
+    margin-bottom: 18px;
+}
+/* Pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding:3% 2%;
+}
+.card-header{
+    background-color: #BAABDA;
+}
+.pricing-head{
+    font-size: 3rem;
+    font-family:  'Fira Sans', sans-serif;
+}
+}
+.pricing-description{
+    font-size: 1.4rem;
+    font-family:  'Fira Sans', sans-serif;
+}
+
+/* Call to Action */
+#cta{
+    background-color: #BAABDA;
+    padding: 4% 15%;
+    text-align: center;
+    
+}
+.head-action{
+    margin: 10%;
+    font-size: 2.9rem;
+    color: #fff;
+    font-family: 'Ubuntu-Bold', sans-serif;
+    margin-bottom: 6%;
+    margin-top: 6%;
+}
+#action{
+    margin: 1%;
+    margin-bottom: 7%;
+}
+
+/* Footer */
+#footer{
+    text-align: center;
+    color: black;
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+#foot{
+    margin: 0.4%;
+    margin-bottom: 1%;
+}
